@@ -1,6 +1,13 @@
 # calcu-lator
-This is  simple script for calculation
+This is an script for calculation
 
+It has three modes...
+-Basic 
+-Advance
+-Interactive
+
+I will not tell anything about the modes..
+Just try yourself :) :)
 
 
 To run the program
