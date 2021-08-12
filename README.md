@@ -1,10 +1,10 @@
 ## calculator
 A script for calculation
 
-It has three modes...
-- Basic 
-- Advance
-- Interactive
+### Three modes [-3-]
+- **`Basic`**
+- **`Advance`**
+- **`Interactive`**
 
 ### Install Dependencies
 ```
